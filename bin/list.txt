@@ -25,3 +25,4 @@ soljson-v0.4.16+commit.d7661dd9.js
 soljson-v0.4.15+commit.8b45bddb.js
 soljson-v0.4.14+commit.c2215d46.js
 soljson-v0.4.13+commit.fb4cb1a.js
+soljson-v0.4.12+commit.194ff033.js
