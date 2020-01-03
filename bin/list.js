@@ -13,7 +13,8 @@ var soljsonSources = [
   "soljson-v0.5.3+commit.b762892a.js",
   "soljson-v0.5.2+commit.87cdfece.js",
   "soljson-v0.5.1+commit.31433431.js",
-  "soljson-v0.5.0+commit.d754c617.js"
+  "soljson-v0.5.0+commit.d754c617.js",
+  "soljson-v0.4.25+commit.59dbf8f1.js"
 ];
 var soljsonReleases = {
   "0.5.13": "soljson-v0.5.13+commit.9ff23752.js",
@@ -29,7 +30,8 @@ var soljsonReleases = {
   "0.5.3": "soljson-v0.5.3+commit.b762892a.js",
   "0.5.2": "soljson-v0.5.2+commit.87cdfece.js",
   "0.5.1": "soljson-v0.5.1+commit.31433431.js",
-  "0.5.0": "soljson-v0.5.0+commit.d754c617.js"
+  "0.5.0": "soljson-v0.5.0+commit.d754c617.js",
+  "0.4.25": "soljson-v0.4.25+commit.59dbf8f1.js"
 };
 
 if (typeof(module) !== 'undefined')
