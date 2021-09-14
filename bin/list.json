@@ -5,9 +5,9 @@
       "version": "0.4.26",
       "build": "commit.cd564d2f",
       "longVersion": "0.4.26+commit.cd564d2f",
-      "keccak256": "0x3a29834b2c87d64c6c2dd2fcb1658b6eaea1e851d979272cdd812cb7ef864ead",
+      "keccak256": "0x4e3844eff69ca17f7346ab5e98778c2210a7fd03c42da6ba554cb1a42c64ee85",
       "urls": [
-        "bzzr://14de435442948a99758cc5c39b57160e1f76ff37287e7def684b47b3cc37cbdd"
+        "bzzr://0cb7c5ce24b1f0a4077a4e1bb6db2986b6c000036531972ba05b4601e89615da"
       ]
     },
     {
@@ -15,9 +15,9 @@
       "version": "0.5.17",
       "build": "commit.84979a1f",
       "longVersion": "0.5.17+commit.84979a1f",
-      "keccak256": "0xb5c9776050c278ea10c9625a5bc9196e11db81758e7c8f6f93357d27cb72b014",
+      "keccak256": "0x8cbb888fb3a0cc2e57e08d9be40ba006a645200a25ae7b810565b089b3fae3c0",
       "urls": [
-        "bzzr://fb5dad80558b3172567c5236cae0edc0dd6497db98d17fd242b5e469b6f6f802"
+        "bzzr://1922432bf9f91f72955b2397fad08c5815abe0da95172b265ae5884a4a3d1cd9"
       ]
     },
     {
@@ -25,9 +25,9 @@
       "version": "0.6.12",
       "build": "commit.5edbeb02",
       "longVersion": "0.6.12+commit.5edbeb02",
-      "keccak256": "0xc1e390e834684121cbff93af753a31b0acabdab5b7b38af5ea851ecb8751cadf",
+      "keccak256": "0xedbb6e0bcf6405a82130857ba42861a3f190edb2d65f81e2454d2b5891d64e14",
       "urls": [
-        "bzzr://1e06eb4d0f17b5460de064dcba8bb1bc688e19c236dce201bf057b344454093b"
+        "bzzr://6eb27c0ec9c8fc22fbac1ad1d89d3c98adf190a10c3163dbd5f2e146d4abd82c"
       ]
     },
     {
@@ -35,9 +35,9 @@
       "version": "0.7.6",
       "build": "commit.24c9f341",
       "longVersion": "0.7.6+commit.24c9f341",
-      "keccak256": "0x43b541e5f1d61781e0a2a8673b2071ef43bbd95d63b1293f99b88e95ed98a43f",
+      "keccak256": "0x0a3b08defe14188985c1dd65b756423480dfad9a8e52574f6290fd6d2f8a2e88",
       "urls": [
-        "bzzr://af2a6f5344c47f95d3aea73bfcdca944e41ff5289d1b898c037b607a3681429e"
+        "bzzr://90a2a2031b79161eff8d37a13326a832230696611e66191a7565a77cb8004d7d"
       ]
     },
     {
@@ -45,9 +45,9 @@
       "version": "0.8.6",
       "build": "commit.661d7834",
       "longVersion": "0.8.6+commit.661d7834",
-      "keccak256": "0x31c391a7536447fb70c3be013c981736b313b637135b497eeb56a8e0199854f8",
+      "keccak256": "0x7718a751e6a8d6de0f4640104c7a355a13d72b3a2919a7d71a193b2c59e720b6",
       "urls": [
-        "bzzr://5cb24f02ebfe0df1441a6d16cb0ef8e2ddbc0ed0516743c15d7bf4eb5fd55321"
+        "bzzr://1237797c06b7430d0eea6308391a1c579fbe4104f8dca2f1fb7064bad66bda47"
       ]
     }
   ],
